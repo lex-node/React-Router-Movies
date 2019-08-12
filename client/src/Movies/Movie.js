@@ -57,7 +57,3 @@ const Movie = (props) => {
 
 export default Movie;
 
-/*### Part 2:
-
-* Add functionality so the `Home` button on the `SavedList` component navigates back to home.
-* You should now be able to navigate back and forth between the individual movies and the home screen.*/
